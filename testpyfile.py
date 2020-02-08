@@ -4,3 +4,5 @@ for i in range(1,2,5):
 	while True:
 		return
 from matplotlib import pyplot as plt
+print("lol")
+
